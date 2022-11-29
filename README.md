@@ -1,7 +1,17 @@
 ### 🥳 반갑습니다! 🥳
 
 # 20160420 김유영
-
+##  **Assignment**
+  
+| 번호 | 과제 내용 | Markdown |
+| ---- | -------- | -------- |
+| 세부 팀과제 1 | 교재(git 교과서) 5장 정리 | [git 교과서 5장 정리](https://github.com/robotos1/TeamProject/blob/bda0486fa702f531276ec3980eba956396618c63/git%20%EA%B5%90%EA%B3%BC%EC%84%9C%205%EC%9E%A5%20%EC%A0%95%EB%A6%AC.md) |
+| 세부 팀과제 2 | 오픈소스소프트웨어 개요와 역사 |  [오픈소스소프트웨어 개요와 역사](https://github.com/robotos1/TeamProject/blob/bda0486fa702f531276ec3980eba956396618c63/history.md) |
+| 세부 팀과제 3 | 교재(git 교과서) 6장 정리 | [git 교과서 6장 정리](https://github.com/robotos1/TeamProject/blob/bda0486fa702f531276ec3980eba956396618c63/git%20%EA%B5%90%EA%B3%BC%EC%84%9C%206%EC%9E%A5%20%EC%A0%95%EB%A6%AC.md) |
+| 세부 팀과제 4 | 교재(git 교과서) 8장 정리 | [git 교과서 8장 정리](https://github.com/robotos1/TeamProject/blob/bda0486fa702f531276ec3980eba956396618c63/git%20%EA%B5%90%EA%B3%BC%EC%84%9C%208%EC%9E%A5%20%EC%A0%95%EB%A6%AC.md) |  
+| 세부 팀과제 5 | 교재(git 교과서) 9장 정리 | [git 교과서 9장 정리](https://github.com/robotos1/TeamProject/blob/bda0486fa702f531276ec3980eba956396618c63/git%20%EA%B5%90%EA%B3%BC%EC%84%9C%209%EC%9E%A5%20%EC%A0%95%EB%A6%AC.md) |
+| 세부 팀과제 6 | 내용정리 및 사용평가 | [내용정리 및 사용평가](https://github.com/gyu1123/TeamProject/blob/main/%EB%82%B4%EC%9A%A9%20%EC%A0%95%EB%A6%AC%20%EB%B0%8F%20%EC%82%AC%EC%9A%A9%20%ED%8F%89%EA%B0%80.md) |
+  
 |<a href="https://github.com/kimyouyoung1"><img src="https://img.shields.io/badge/kimyouyoung1-181717?style=flat-square&logo=GitHub&logoColor=white" height="24px"/></a>|  
   
 <!--
