@@ -11,6 +11,14 @@
 | 교재(git 교과서) 8장 정리 | [8장 링크](https://github.com/robotos1/TeamProject/blob/bda0486fa702f531276ec3980eba956396618c63/git%20%EA%B5%90%EA%B3%BC%EC%84%9C%208%EC%9E%A5%20%EC%A0%95%EB%A6%AC.md) |  
 | 교재(git 교과서) 9장 정리 | [9장 링크](https://github.com/robotos1/TeamProject/blob/bda0486fa702f531276ec3980eba956396618c63/git%20%EA%B5%90%EA%B3%BC%EC%84%9C%209%EC%9E%A5%20%EC%A0%95%EB%A6%AC.md) |
 
+## GIT CHEAT SHEET   
+[git cheat 바로가기 ](https://github.com/kimyouyoung1/-/blob/main/GIT-cheatsheet.md)
+
+
+[github  명령어 ](https://github.com/kimyouyoung1/-/blob/main/%EA%B9%83%ED%97%88%EB%B8%8C%EC%9D%98%20%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%A0%95%EB%A6%AC%20.md)
+
+## 프로필 소개 
+
   <img src="http://mazandi.herokuapp.com/api?handle={kimyouyoung1}&theme=warm"/>
   
   
